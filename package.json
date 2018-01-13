@@ -1,0 +1,20 @@
+{
+  "name": "clean-wrap-guide",
+  "main": "./lib/clean-wrap-guide",
+  "version": "0.0.1",
+  "description": "Toggles the visibility of the wrap guide if exceeded.",
+  "keywords": [
+      "wrap-guide",
+      "length",
+      "ergonomic",
+      "formatting",
+      "readability"
+  ],
+  "repository": "https://github.com/audunolsen/clean-wrap-guide",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
