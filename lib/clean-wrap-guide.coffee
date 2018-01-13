@@ -1,17 +1,3 @@
-### ---------- CLEAN WRAP GUIDE ----------
-
-The ergonomic factors of code readiablity include a preferred line length limit.
-Automatic soft wrap is a nightmare because it hinders the "write first, refactor later"
-mentality because it wrecks readability immediately.
-An unusually long line is just a minor annoyance. A wrap guide is a visual cue 
-showing you if cleanup is necessary at a later point.
-
-The problem: having a wrap guide visible at all times is distracting visual noise.
-This script toggles the visibility of the wrap guide if a line exceeds the preferred line length.
-(…This is really just an exercise in publishing a package for Atom…)
-
-###
-
 EVENT = "toggleWrapGuide"
 
 toggleWrapGuide = (editor) ->
