@@ -1,7 +1,7 @@
 {
   "name": "clean-wrap-guide",
   "main": "./lib/clean-wrap-guide",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Toggles the visibility of the wrap guide if exceeded.",
   "keywords": [
     "wrap-guide",
